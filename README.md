@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨💿 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 Brandon 💿✨  
+# ☁ 🌙 𝘩𝘦𝘭𝘭𝘰, 𝘪´𝘮 𝘣𝘳𝘢𝘯𝘥𝘰𝘯 🌙 ☁  
 ### 🚀 Software Engineering Student | Backend Developer  
 
 <img src="https://i.pinimg.com/1200x/40/29/3f/40293f1b989f6cdd1ee67a5d52f1f718.jpg" width="300" heigth="250"/>
@@ -53,30 +53,10 @@
    - Modular architecture
    - Automation
 ```
-
----
-
-## 🪐 Y2K Mode: ON
-
-💾 Inspired by:
-- Early 2000s tech
-- Terminal aesthetics
-- Old-school UI vibes
-- Retro-futurism
-
----
-
-## 📬 Contact / Presence
-
-🌐 GitHub: This profile  
-📂 Portfolio: Projects pinned below  
-🛠️ Always building, always learning  
-
 ---
 
 <div align="center">
 
 ⭐ Thanks for visiting my profile  
-🌀 *Welcome to my digital archive*
 
 </div>
