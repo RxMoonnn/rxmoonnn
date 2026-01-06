@@ -3,7 +3,7 @@
 # ✨💿 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 Brandon 💿✨  
 ### 🚀 Software Engineering Student | Backend Developer  
 
-<img src="https://i.pinimg.com/1200x/40/29/3f/40293f1b989f6cdd1ee67a5d52f1f718.jpg"/>
+<img src="https://i.pinimg.com/1200x/40/29/3f/40293f1b989f6cdd1ee67a5d52f1f718.jpg" width="300" heigth="250"/>
 
 </div>
 
