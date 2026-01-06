@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**RxMoonnn/rxmoonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <div align="center">
 
 # ✨💿 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 Brandon 💿✨  
@@ -15,15 +9,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 🖥️ About Me (Y2K Edition)
+## 🖥️ About Me 
 
 🌐 **Currently studying Software Engineering**  
 🧠 **+3 years of programming experience**  
 ⚙️ **Backend-oriented developer**, focused on logic, structure and scalability  
 🛠️ Passionate about **automation, systems, bots and tools**  
 📦 Love building things that actually *work*  
-
-> *“Code like it’s 2003, deploy like it’s 2030.”*
 
 ---
 
@@ -62,6 +54,18 @@ Here are some ideas to get you started:
    - Automation
 ```
 
+---
+
+## 🪐 Y2K Mode: ON
+
+💾 Inspired by:
+- Early 2000s tech
+- Terminal aesthetics
+- Old-school UI vibes
+- Retro-futurism
+
+---
+
 ## 📬 Contact / Presence
 
 🌐 GitHub: This profile  
@@ -76,13 +80,3 @@ Here are some ideas to get you started:
 🌀 *Welcome to my digital archive*
 
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
